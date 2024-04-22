@@ -1,0 +1,788 @@
+playerTeam,playerName,Year,Status
+Adelaide Crows,Brayden Cook,2024,Non-Free Agent
+Adelaide Crows,Brodie Smith,2024,Unrestricted Free Agent
+Adelaide Crows,Chris Burgess,2024,Non-Free Agent
+Adelaide Crows,Elliott Himmelberg,2024,Restricted Free Agent
+Adelaide Crows,Hugh Bond,2024,Non-Free Agent
+Adelaide Crows,James Borlase,2024,Non-Free Agent
+Adelaide Crows,Lachlan Gollant,2024,Non-Free Agent
+Adelaide Crows,Lachlan Sholl,2024,Non-Free Agent
+Adelaide Crows,Ned McHenry,2024,Non-Free Agent
+Adelaide Crows,Patrick Parnell,2024,Non-Free Agent
+Adelaide Crows,Rory Sloane,2024,Unrestricted Free Agent
+Adelaide Crows,Sam Berry,2024,Non-Free Agent
+Adelaide Crows,Taylor Walker,2024,Unrestricted Free Agent
+Adelaide Crows,Will Hamill,2024,Non-Free Agent
+Brisbane Lions,Carter Michael,2024,Non-Free Agent
+Brisbane Lions,Darragh Joyce,2024,Unrestricted Free Agent
+Brisbane Lions,Dayne Zorko,2024,Unrestricted Free Agent
+Brisbane Lions,Hugh McCluggage,2024,Restricted Free Agent
+Brisbane Lions,James Madden,2024,Non-Free Agent
+Brisbane Lions,Jarrod Berry,2024,Restricted Free Agent
+Brisbane Lions,Jarryd Lyons,2024,Non-Free Agent
+Brisbane Lions,Jaxon Prior,2024,Non-Free Agent
+Brisbane Lions,Kalin Lane,2024,Non-Free Agent
+Brisbane Lions,Lincoln McCarthy,2024,Non-Free Agent
+Brisbane Lions,Noah Answerth,2024,Non-Free Agent
+Brisbane Lions,Ryan Lester,2024,Unrestricted Free Agent
+Brisbane Lions,Shadeau Brain,2024,Non-Free Agent
+Carlton,Alex Cincotta,2024,Non-Free Agent
+Carlton,Alex Mirkov,2024,Non-Free Agent
+Carlton,Caleb Marchbank,2024,Restricted Free Agent
+Carlton,Corey Durdin,2024,Non-Free Agent
+Carlton,David Cuningham,2024,Restricted Free Agent
+Carlton,Domanic Akuei,2024,Non-Free Agent
+Carlton,Elijah Hollands,2024,Non-Free Agent
+Carlton,Hudson O'Keeffe,2024,Non-Free Agent
+Carlton,Jack Carroll,2024,Non-Free Agent
+Carlton,Jack Martin,2024,Non-Free Agent
+Carlton,Jordan Boyd,2024,Non-Free Agent
+Carlton,Lachie Fogarty,2024,Non-Free Agent
+Carlton,Matt Carroll,2024,Unknown
+Carlton,Matthew Owies,2024,Non-Free Agent
+Carlton,Sam Durdin,2024,Unrestricted Free Agent
+Collingwood,Aiden Begg,2024,Non-Free Agent
+Collingwood,Charlie Dean,2024,Non-Free Agent
+Collingwood,Jack Bytel,2024,Unrestricted Free Agent
+Collingwood,Jeremy Howe,2024,Restricted Free Agent
+Collingwood,Joe Richards,2024,Non-Free Agent
+Collingwood,Josh Carmichael,2024,Non-Free Agent
+Collingwood,Josh Eyre,2024,Unrestricted Free Agent
+Collingwood,Lachlan Sullivan,2024,Unknown
+Collingwood,Nathan Kreuger,2024,Non-Free Agent
+Collingwood,Nathan Murphy,2024,Non-Free Agent
+Collingwood,Oleg Markov,2024,Unrestricted Free Agent
+Collingwood,Oscar Steene,2024,Non-Free Agent
+Collingwood,Reef McInnes,2024,Non-Free Agent
+Collingwood,Scott Pendlebury,2024,Unrestricted Free Agent
+Collingwood,Steele Sidebottom,2024,Unrestricted Free Agent
+Collingwood,Will Hoskin-Elliott,2024,Restricted Free Agent
+Essendon,Andrew McGrath,2024,Restricted Free Agent
+Essendon,Archie Perkins,2024,Non-Free Agent
+Essendon,Dylan Shiel,2024,Non-Free Agent
+Essendon,Dyson Heppell,2024,Unrestricted Free Agent
+Essendon,Harrison Jones,2024,Non-Free Agent
+Essendon,Jaiden Hunter,2024,Non-Free Agent
+Essendon,Jake Kelly,2024,Non-Free Agent
+Essendon,Jake Stringer,2024,Non-Free Agent
+Essendon,Jayden Davey,2024,Non-Free Agent
+Essendon,Jye Caldwell,2024,Non-Free Agent
+Essendon,Jye Menzie,2024,Non-Free Agent
+Essendon,Kaine Baldwin,2024,Non-Free Agent
+Essendon,Lewis Hayes,2024,Non-Free Agent
+Essendon,Matt Guelfi,2024,Non-Free Agent
+Essendon,Nick Hind,2024,Non-Free Agent
+Essendon,Nik Cox,2024,Non-Free Agent
+Essendon,Sam Weideman,2024,Non-Free Agent
+Essendon,Tex Wanganeen,2024,Non-Free Agent
+Essendon,Todd Goldstein,2024,Unrestricted Free Agent
+Essendon,Vigo Visentini,2024,Unknown
+Essendon,Will Setterfield,2024,Non-Free Agent
+Fremantle,Bailey Banfield,2024,Unrestricted Free Agent
+Fremantle,Conrad Williams,2024,Non-Free Agent
+Fremantle,Corey Wagner,2024,Unrestricted Free Agent
+Fremantle,Ethan Hughes,2024,Unrestricted Free Agent
+Fremantle,Ethan Stanley,2024,Non-Free Agent
+Fremantle,Josh Corbett,2024,Non-Free Agent
+Fremantle,Liam Reidy,2024,Non-Free Agent
+Fremantle,Matt Taberner,2024,Unrestricted Free Agent
+Fremantle,Max Knobel,2024,Non-Free Agent
+Fremantle,Nathan O'Driscoll,2024,Non-Free Agent
+Fremantle,Odin Jones,2024,Unknown
+Fremantle,Patrick Voss,2024,Unrestricted Free Agent
+Fremantle,Sam Sturt,2024,Non-Free Agent
+Fremantle,Sebit Kuek,2024,Non-Free Agent
+Fremantle,Tom Emmett,2024,Non-Free Agent
+Geelong Cats,Brandan Parfitt,2024,Restricted Free Agent
+Geelong Cats,Cameron Guthrie,2024,Unrestricted Free Agent
+Geelong Cats,Emerson Jeka,2024,Unrestricted Free Agent
+Geelong Cats,Gary Rohan,2024,Unrestricted Free Agent
+Geelong Cats,Jack Bowes,2024,Non-Free Agent
+Geelong Cats,Jack Henry,2024,Restricted Free Agent
+Geelong Cats,Jake Kolodjashnij,2024,Unrestricted Free Agent
+Geelong Cats,James Willis,2024,Non-Free Agent
+Geelong Cats,Jed Bews,2024,Unrestricted Free Agent
+Geelong Cats,Max Holmes,2024,Non-Free Agent
+Geelong Cats,Mitch Hardie,2024,Non-Free Agent
+Geelong Cats,Mitchell Duncan,2024,Unrestricted Free Agent
+Geelong Cats,Oliver Henry,2024,Non-Free Agent
+Geelong Cats,Patrick Dangerfield,2024,Restricted Free Agent
+Geelong Cats,Phoenix Foster,2024,Non-Free Agent
+Geelong Cats,Rhys Stanley,2024,Unrestricted Free Agent
+Geelong Cats,Ted Clohesy,2024,Non-Free Agent
+Geelong Cats,Tom Hawkins,2024,Unrestricted Free Agent
+Geelong Cats,Tyson Stengle,2024,Unrestricted Free Agent
+Geelong Cats,Zach Tuohy,2024,Restricted Free Agent
+Gold Coast SUNS,Alex Davies,2024,Non-Free Agent
+Gold Coast SUNS,Alex Sexton,2024,Unrestricted Free Agent
+Gold Coast SUNS,Ben Ainsworth,2024,Restricted Free Agent
+Gold Coast SUNS,Ben King,2024,Non-Free Agent
+Gold Coast SUNS,Bodhi Uwland,2024,Non-Free Agent
+Gold Coast SUNS,Brandon Ellis,2024,Non-Free Agent
+Gold Coast SUNS,Darcy Macpherson,2024,Restricted Free Agent
+Gold Coast SUNS,Hewago Oea,2024,Non-Free Agent
+Gold Coast SUNS,Jack Mahony,2024,Unrestricted Free Agent
+Gold Coast SUNS,James Tsitas,2024,Non-Free Agent
+Gold Coast SUNS,Levi Casboult,2024,Unrestricted Free Agent
+Gold Coast SUNS,Lloyd Johnston,2024,Non-Free Agent
+Gold Coast SUNS,Ned Moyle,2024,Non-Free Agent
+Gold Coast SUNS,Nick Holman,2024,Unrestricted Free Agent
+Gold Coast SUNS,Oskar Faulkhead,2024,Non-Free Agent
+Gold Coast SUNS,Sam Clohesy,2024,Unknown
+Gold Coast SUNS,Sam Day,2024,Unrestricted Free Agent
+Gold Coast SUNS,Sandy Brock,2024,Non-Free Agent
+Gold Coast SUNS,Sean Lemmens,2024,Unrestricted Free Agent
+Gold Coast SUNS,William Rowlands,2024,Unknown
+GWS GIANTS,Adam Kennedy,2024,Unrestricted Free Agent
+GWS GIANTS,Braydon Preuss,2024,Non-Free Agent
+GWS GIANTS,Callan Ward,2024,Unrestricted Free Agent
+GWS GIANTS,Conor Stone,2024,Non-Free Agent
+GWS GIANTS,Cooper Hamilton,2024,Non-Free Agent
+GWS GIANTS,Harry Perryman,2024,Restricted Free Agent
+GWS GIANTS,Isaac Cumming,2024,Restricted Free Agent
+GWS GIANTS,James Peatling,2024,Non-Free Agent
+GWS GIANTS,Josh Fahey,2024,Non-Free Agent
+GWS GIANTS,Lachlan Keeffe,2024,Unrestricted Free Agent
+GWS GIANTS,Nick Haynes,2024,Unrestricted Free Agent
+GWS GIANTS,Ryan Angwin,2024,Non-Free Agent
+Hawthorn,Blake Hardwick,2024,Restricted Free Agent
+Hawthorn,Chad Wingard,2024,Non-Free Agent
+Hawthorn,Changkuoth Jiath,2024,Non-Free Agent
+Hawthorn,Clay Tucker,2024,Non-Free Agent
+Hawthorn,Conor Nash,2024,Restricted Free Agent
+Hawthorn,Cooper Stephens,2024,Non-Free Agent
+Hawthorn,Denver Grainger-Barras,2024,Non-Free Agent
+Hawthorn,Ethan Phillips,2024,Unknown
+Hawthorn,Harry Morrison,2024,Restricted Free Agent
+Hawthorn,Jack Gunston,2024,Unrestricted Free Agent
+Hawthorn,Jack O'Sullivan,2024,Non-Free Agent
+Hawthorn,Jack Scrimshaw,2024,Non-Free Agent
+Hawthorn,Joshua Bennetts,2024,Non-Free Agent
+Hawthorn,Lloyd Meek,2024,Non-Free Agent
+Hawthorn,Luke Breust,2024,Unrestricted Free Agent
+Hawthorn,Sam Frost,2024,Non-Free Agent
+Melbourne,Adam Tomlinson,2024,Non-Free Agent
+Melbourne,Andy Moniz-Wakefield,2024,Non-Free Agent
+Melbourne,Ben Brown,2024,Non-Free Agent
+Melbourne,Daniel Turner,2024,Non-Free Agent
+Melbourne,Ed Langdon,2024,Non-Free Agent
+Melbourne,Jake Melksham,2024,Unrestricted Free Agent
+Melbourne,Joel Smith,2024,Restricted Free Agent
+Melbourne,Josh Schache,2024,Non-Free Agent
+Melbourne,Kyah Farris-White,2024,Non-Free Agent
+Melbourne,Kynan Brown,2024,Unknown
+Melbourne,Lachie Hunter,2024,Unrestricted Free Agent
+Melbourne,Marty Hore,2024,Unrestricted Free Agent
+Melbourne,Oliver Sestan,2024,Non-Free Agent
+Melbourne,Tom McDonald,2024,Unrestricted Free Agent
+Melbourne,Will Verrall,2024,Non-Free Agent
+North Melbourne,Bailey Scott,2024,Non-Free Agent
+North Melbourne,Blake Drury,2024,Non-Free Agent
+North Melbourne,Brayden George,2024,Non-Free Agent
+North Melbourne,Cameron Zurhaar,2024,Restricted Free Agent
+North Melbourne,Charlie Lazzaro,2024,Non-Free Agent
+North Melbourne,Cooper Harvey,2024,Non-Free Agent
+North Melbourne,Curtis Taylor,2024,Non-Free Agent
+North Melbourne,Eddie Ford,2024,Non-Free Agent
+North Melbourne,Finnbar Maley,2024,Unknown
+North Melbourne,Hamish Free,2024,Non-Free Agent
+North Melbourne,Hugh Greenwood,2024,Non-Free Agent
+North Melbourne,Jackson Archer,2024,Non-Free Agent
+North Melbourne,Kallan Dawson,2024,Non-Free Agent
+North Melbourne,Liam Shiels,2024,Unrestricted Free Agent
+North Melbourne,Robert Hansen,2024,Non-Free Agent
+North Melbourne,Tarryn Thomas,2024,Non-Free Agent
+North Melbourne,Toby Pink,2024,Unrestricted Free Agent
+North Melbourne,Tyler Sellers,2024,Unknown
+North Melbourne,Will Phillips,2024,Non-Free Agent
+Port Adelaide,Brandon Zerk-Thatcher,2024,Non-Free Agent
+Port Adelaide,Charlie Dixon,2024,Restricted Free Agent
+Port Adelaide,Francis Evans,2024,Non-Free Agent
+Port Adelaide,Hugh Jackson,2024,Non-Free Agent
+Port Adelaide,Ivan Soldo,2024,Non-Free Agent
+Port Adelaide,Jackson Mead,2024,Non-Free Agent
+Port Adelaide,Jeremy Finlayson,2024,Non-Free Agent
+Port Adelaide,Kyle Marshall,2024,Non-Free Agent
+Port Adelaide,Lachie Jones,2024,Non-Free Agent
+Port Adelaide,Quinton Narkle,2024,Unrestricted Free Agent
+Port Adelaide,Thomas Scully,2024,Non-Free Agent
+Port Adelaide,Tom McCallum,2024,Non-Free Agent
+Port Adelaide,Travis Boak,2024,Unrestricted Free Agent
+Port Adelaide,Trent McKenzie,2024,Non-Free Agent
+Port Adelaide,Xavier Walsh,2024,Unknown
+Richmond,Ben Miller,2024,Non-Free Agent
+Richmond,Dion Prestia,2024,Restricted Free Agent
+Richmond,Dustin Martin,2024,Unrestricted Free Agent
+Richmond,Dylan Grimes,2024,Unrestricted Free Agent
+Richmond,Hugo Ralphsmith,2024,Non-Free Agent
+Richmond,Jack Graham,2024,Restricted Free Agent
+Richmond,Jack Ross,2024,Non-Free Agent
+Richmond,James Trezise,2024,Non-Free Agent
+Richmond,Kaleb Smith,2024,Non-Free Agent
+Richmond,Kamdyn Mcintosh,2024,Unrestricted Free Agent
+Richmond,Liam Baker,2024,Non-Free Agent
+Richmond,Marlion Pickett,2024,Non-Free Agent
+Richmond,Mate Colina,2024,Non-Free Agent
+Richmond,Matthew Coulthard,2024,Non-Free Agent
+Richmond,Maurice Rioli,2024,Non-Free Agent
+Richmond,Mykelti Lefau,2024,Unknown
+Richmond,Noah Cumberland,2024,Unrestricted Free Agent
+Richmond,Rhyan Mansell,2024,Non-Free Agent
+Richmond,Sam Naismith,2024,Unrestricted Free Agent
+Richmond,Samson Ryan,2024,Non-Free Agent
+Richmond,Seth Campbell,2024,Non-Free Agent
+Richmond,Steely Green,2024,Non-Free Agent
+Richmond,Thomson Dow,2024,Non-Free Agent
+Richmond,Toby Nankervis,2024,Restricted Free Agent
+St Kilda,Angus McLennan,2024,Non-Free Agent
+St Kilda,Ben Paton,2024,Non-Free Agent
+St Kilda,Cooper Sharman,2024,Non-Free Agent
+St Kilda,Dan Butler,2024,Non-Free Agent
+St Kilda,Dougal Howard,2024,Non-Free Agent
+St Kilda,Isaac Keeler,2024,Non-Free Agent
+St Kilda,Jack Hayes,2024,Non-Free Agent
+St Kilda,James Van Es,2024,Non-Free Agent
+St Kilda,Jimmy Webster,2024,Unrestricted Free Agent
+St Kilda,Josh Battle,2024,Restricted Free Agent
+St Kilda,Liam Stocker,2024,Unrestricted Free Agent
+St Kilda,Mason Wood,2024,Non-Free Agent
+St Kilda,Mattaes Phillipou,2024,Non-Free Agent
+St Kilda,Matthew Allison,2024,Non-Free Agent
+St Kilda,Max Heath,2024,Non-Free Agent
+St Kilda,Olli Hotton,2024,Non-Free Agent
+St Kilda,Riley Bonner,2024,Unrestricted Free Agent
+St Kilda,Ryan Byrnes,2024,Non-Free Agent
+St Kilda,Sebastian Ross,2024,Unrestricted Free Agent
+St Kilda,Tim Membrey,2024,Unrestricted Free Agent
+St Kilda,Tom Campbell,2024,Unrestricted Free Agent
+St Kilda,Zak Jones,2024,Non-Free Agent
+Sydney Swans,Aaron Francis,2024,Non-Free Agent
+Sydney Swans,Caleb Mitchell,2024,Non-Free Agent
+Sydney Swans,Cooper Vickery,2024,Non-Free Agent
+Sydney Swans,Harrison Arnold,2024,Non-Free Agent
+Sydney Swans,Harry Cunningham,2024,Unrestricted Free Agent
+Sydney Swans,Jack Buller,2024,Non-Free Agent
+Sydney Swans,Jacob Konstanty,2024,Non-Free Agent
+Sydney Swans,Jaiden Magor,2024,Non-Free Agent
+Sydney Swans,James Jordon,2024,Non-Free Agent
+Sydney Swans,Lachlan McAndrew,2024,Non-Free Agent
+Sydney Swans,Lewis Melican,2024,Unrestricted Free Agent
+Sydney Swans,Logan McDonald,2024,Non-Free Agent
+Sydney Swans,Oliver Florent,2024,Restricted Free Agent
+Sydney Swans,Robbie Fox,2024,Restricted Free Agent
+Sydney Swans,Sam Reid,2024,Unrestricted Free Agent
+Sydney Swans,William Edwards,2024,Non-Free Agent
+Sydney Swans,Will Hayward,2024,Restricted Free Agent
+West Coast Eagles,Alex Witherden,2024,Non-Free Agent
+West Coast Eagles,Andrew Gaff,2024,Unrestricted Free Agent
+West Coast Eagles,Coby Burgiel,2024,Non-Free Agent
+West Coast Eagles,Elliot Yeo,2024,Unrestricted Free Agent
+West Coast Eagles,Harry Barnett,2024,Non-Free Agent
+West Coast Eagles,Harry Edwards,2024,Non-Free Agent
+West Coast Eagles,Jack Williams,2024,Non-Free Agent
+West Coast Eagles,Jai Culley,2024,Non-Free Agent
+West Coast Eagles,Jamaine Jones,2024,Unrestricted Free Agent
+West Coast Eagles,Jordyn Baker,2024,Non-Free Agent
+West Coast Eagles,Josh Rotham,2024,Restricted Free Agent
+West Coast Eagles,Liam Duggan,2024,Unrestricted Free Agent
+West Coast Eagles,Loch Rawlinson,2024,Unknown
+West Coast Eagles,Luke Edwards,2024,Non-Free Agent
+West Coast Eagles,Tyler Brockman,2024,Non-Free Agent
+West Coast Eagles,Tyrell Dewar,2024,Non-Free Agent
+West Coast Eagles,Zane Trew,2024,Unrestricted Free Agent
+Western Bulldogs,Alex Keath,2024,Non-Free Agent
+Western Bulldogs,Bailey Smith,2024,Non-Free Agent
+Western Bulldogs,Buku Khamis,2024,Non-Free Agent
+Western Bulldogs,Charlie Clarke,2024,Non-Free Agent
+Western Bulldogs,Dominic Bedendo,2024,Non-Free Agent
+Western Bulldogs,Harvey Gallagher,2024,Non-Free Agent
+Western Bulldogs,Jamarra Ugle-Hagan,2024,Non-Free Agent
+Western Bulldogs,Jason Johannisen,2024,Unrestricted Free Agent
+Western Bulldogs,Jedd Busslinger,2024,Non-Free Agent
+Western Bulldogs,Lachlan Bramble,2024,Unrestricted Free Agent
+Western Bulldogs,Lachlan McNeil,2024,Non-Free Agent
+Western Bulldogs,Rhylee West,2024,Non-Free Agent
+Western Bulldogs,Riley Garcia,2024,Non-Free Agent
+Western Bulldogs,Taylor Duryea,2024,Non-Free Agent
+Western Bulldogs,Tim English,2024,Restricted Free Agent
+Adelaide Crows,Darcy Fogarty,2025,Restricted Free Agent
+Adelaide Crows,Harry Schoenberg,2025,Non-Free Agent
+Adelaide Crows,Izak Rankine,2025,Non-Free Agent
+Adelaide Crows,Josh Worrell,2025,Non-Free Agent
+Adelaide Crows,Karl Gallagher,2025,Unknown
+Adelaide Crows,Kieran Strachan,2025,Non-Free Agent
+Adelaide Crows,Lachlan Murphy,2025,Restricted Free Agent
+Adelaide Crows,Luke Nankervis,2025,Non-Free Agent
+Adelaide Crows,Mark Keane,2025,Non-Free Agent
+Adelaide Crows,Matt Crouch,2025,Unrestricted Free Agent
+Adelaide Crows,Nick Murray,2025,Non-Free Agent
+Adelaide Crows,Reilly O'Brien,2025,Unrestricted Free Agent
+Adelaide Crows,Riley Thilthorpe,2025,Non-Free Agent
+Adelaide Crows,Wayne Milera,2025,Unrestricted Free Agent
+Adelaide Crows,Zac Taylor,2025,Non-Free Agent
+Brisbane Lions,Brandon Starcevich,2025,Restricted Free Agent
+Brisbane Lions,Bruce Reville,2025,Unknown
+Brisbane Lions,Callum Ah Chee,2025,Non-Free Agent
+Brisbane Lions,Cam Rayner,2025,Restricted Free Agent
+Brisbane Lions,Charlie Cameron,2025,Restricted Free Agent
+Brisbane Lions,Conor McKenna,2025,Non-Free Agent
+Brisbane Lions,Darcy Fort,2025,Non-Free Agent
+Brisbane Lions,Darcy Gardiner,2025,Unrestricted Free Agent
+Brisbane Lions,Deven Robertson,2025,Non-Free Agent
+Brisbane Lions,Harris Andrews,2025,Unrestricted Free Agent
+Brisbane Lions,Harry Sharp,2025,Non-Free Agent
+Brisbane Lions,James Tunstill,2025,Non-Free Agent
+Brisbane Lions,Joe Daniher,2025,Non-Free Agent
+Brisbane Lions,Kai Lohmann,2025,Non-Free Agent
+Brisbane Lions,Logan Morris,2025,Unknown
+Brisbane Lions,Luke Lloyd,2025,Unknown
+Brisbane Lions,Reece Torrent,2025,Unknown
+Brisbane Lions,Zane Zakostelsky,2025,Unknown
+Carlton,Adam Cerra,2025,Non-Free Agent
+Carlton,Adam Saad,2025,Non-Free Agent
+Carlton,Billy Wilson,2025,Unknown
+Carlton,Blake Acres,2025,Non-Free Agent
+Carlton,Brodie Kemp,2025,Non-Free Agent
+Carlton,George Hewett,2025,Non-Free Agent
+Carlton,Harry Lemmey,2025,Non-Free Agent
+Carlton,Jack Silvagni,2025,Unrestricted Free Agent
+Carlton,Jacob Weitering,2025,Unrestricted Free Agent
+Carlton,Jesse Motlop,2025,Non-Free Agent
+Carlton,Matthew Kennedy,2025,Unrestricted Free Agent
+Carlton,Mitch McGovern,2025,Non-Free Agent
+Carlton,Nic Newman,2025,Non-Free Agent
+Carlton,Orazio Fantasia,2025,Unrestricted Free Agent
+Carlton,Rob Monahan,2025,Unknown
+Carlton,Sam Docherty,2025,Unrestricted Free Agent
+Carlton,Tom De Koning,2025,Restricted Free Agent
+Collingwood,Ash Johnson,2025,Non-Free Agent
+Collingwood,Billy Frampton,2025,Non-Free Agent
+Collingwood,Bobby Hill,2025,Non-Free Agent
+Collingwood,Brayden Maynard,2025,Unrestricted Free Agent
+Collingwood,Brody Mihocek,2025,Restricted Free Agent
+Collingwood,Finlay Macrae,2025,Non-Free Agent
+Collingwood,Harvey Harrison,2025,Non-Free Agent
+Collingwood,Jamie Elliott,2025,Unrestricted Free Agent
+Collingwood,Mason Cox,2025,Unrestricted Free Agent
+Collingwood,Tew Jiath,2025,Unknown
+Collingwood,Tom Mitchell,2025,Non-Free Agent
+Collingwood,Wil Parker,2025,Unknown
+Essendon,Alwyn Davey,2025,Non-Free Agent
+Essendon,Archie Roberts,2025,Unknown
+Essendon,Ben Hobbs,2025,Non-Free Agent
+Essendon,Jayden Laverde,2025,Unrestricted Free Agent
+Essendon,Luamon Lual,2025,Unknown
+Essendon,Nick Bryan,2025,Non-Free Agent
+Essendon,Sam Draper,2025,Restricted Free Agent
+Essendon,Zach Reid,2025,Non-Free Agent
+Fremantle,Alex Pearce,2025,Unrestricted Free Agent
+Fremantle,Andrew Brayshaw,2025,Restricted Free Agent
+Fremantle,Cooper Simpson,2025,Unknown
+Fremantle,Jack Delean,2025,Unknown
+Fremantle,James Aish,2025,Non-Free Agent
+Fremantle,Jeremy Sharp,2025,Unrestricted Free Agent
+Fremantle,Jordan Clark,2025,Non-Free Agent
+Fremantle,Joshua Draper,2025,Non-Free Agent
+Fremantle,Karl Worner,2025,Non-Free Agent
+Fremantle,Michael Walters,2025,Unrestricted Free Agent
+Fremantle,Nathan Fyfe,2025,Unrestricted Free Agent
+Fremantle,Neil Erasmus,2025,Non-Free Agent
+Fremantle,Ollie Murphy,2025,Unknown
+Fremantle,Oscar McDonald,2025,Unrestricted Free Agent
+Geelong Cats,Brad Close,2025,Non-Free Agent
+Geelong Cats,George Stevens,2025,Unknown
+Geelong Cats,Jeremy Cameron,2025,Non-Free Agent
+Geelong Cats,Joe Furphy,2025,Unknown
+Geelong Cats,Lawson Humphries,2025,Unknown
+Geelong Cats,Mark Blicavs,2025,Unrestricted Free Agent
+Geelong Cats,Mitchell Edwards,2025,Unknown
+Geelong Cats,Mitch Knevitt,2025,Non-Free Agent
+Geelong Cats,Oisin Mullin,2025,Non-Free Agent
+Geelong Cats,Oliver Wiltshire,2025,Unknown
+Geelong Cats,Ollie Dempsey,2025,Non-Free Agent
+Geelong Cats,Sam De Koning,2025,Non-Free Agent
+Geelong Cats,Shannon Neale,2025,Non-Free Agent
+Geelong Cats,Shaun Mannagh,2025,Unknown
+Geelong Cats,Tanner Bruhn,2025,Non-Free Agent
+Geelong Cats,Toby Conway,2025,Non-Free Agent
+Geelong Cats,Tom Atkins,2025,Non-Free Agent
+Geelong Cats,Zach Guthrie,2025,Restricted Free Agent
+Gold Coast SUNS,Brayden Fiorini,2025,Unrestricted Free Agent
+Gold Coast SUNS,Charlie Ballard,2025,Restricted Free Agent
+Gold Coast SUNS,Connor Budarick,2025,Non-Free Agent
+Gold Coast SUNS,David Swallow,2025,Unrestricted Free Agent
+Gold Coast SUNS,Jy Farrar,2025,Non-Free Agent
+Gold Coast SUNS,Mac Andrew,2025,Non-Free Agent
+Gold Coast SUNS,Malcolm Rosas,2025,Non-Free Agent
+Gold Coast SUNS,Matt Rowell,2025,Non-Free Agent
+Gold Coast SUNS,Rory Atkins,2025,Non-Free Agent
+Gold Coast SUNS,Sam Collins,2025,Unrestricted Free Agent
+Gold Coast SUNS,Thomas Berry,2025,Non-Free Agent
+GWS GIANTS,Brent Daniels,2025,Restricted Free Agent
+GWS GIANTS,Callum Brown,2025,Non-Free Agent
+GWS GIANTS,Finn Callaghan,2025,Non-Free Agent
+GWS GIANTS,Harvey Thomas,2025,Unknown
+GWS GIANTS,Jacob Wehr,2025,Unrestricted Free Agent
+GWS GIANTS,Joseph Fonti,2025,Unknown
+GWS GIANTS,Lachie Ash,2025,Non-Free Agent
+GWS GIANTS,Leek Aleer,2025,Non-Free Agent
+GWS GIANTS,Nathan Wardius,2025,Unknown
+GWS GIANTS,Sam Taylor,2025,Restricted Free Agent
+GWS GIANTS,Toby Bedford,2025,Non-Free Agent
+GWS GIANTS,Wade Derksen,2025,Non-Free Agent
+GWS GIANTS,Xavier O'Halloran,2025,Non-Free Agent
+Hawthorn,Bodie Ryan,2025,Unknown
+Hawthorn,Calsher Dear,2025,Unknown
+Hawthorn,Connor MacDonald,2025,Non-Free Agent
+Hawthorn,Finn Maginness,2025,Non-Free Agent
+Hawthorn,Jai Serong,2025,Non-Free Agent
+Hawthorn,James Worpel,2025,Restricted Free Agent
+Hawthorn,Josh Ward,2025,Non-Free Agent
+Hawthorn,Max Ramsden,2025,Non-Free Agent
+Hawthorn,Sam Butler,2025,Non-Free Agent
+Hawthorn,Seamus Mitchell,2025,Non-Free Agent
+Melbourne,Blake Howes,2025,Non-Free Agent
+Melbourne,Charlie Spargo,2025,Restricted Free Agent
+Melbourne,Harrison Petty,2025,Restricted Free Agent
+Melbourne,Jack Billings,2025,Unrestricted Free Agent
+Melbourne,Jack Viney,2025,Unrestricted Free Agent
+Melbourne,Judd McVee,2025,Non-Free Agent
+Melbourne,Max Gawn,2025,Unrestricted Free Agent
+Melbourne,Steven May,2025,Non-Free Agent
+Melbourne,Taj Woewodin,2025,Non-Free Agent
+Melbourne,Tom Fullarton,2025,Non-Free Agent
+North Melbourne,Aidan Corr,2025,Non-Free Agent
+North Melbourne,Bigoa Nyuon,2025,Unrestricted Free Agent
+North Melbourne,Callum Coleman-Jones,2025,Non-Free Agent
+North Melbourne,Charlie Comben,2025,Non-Free Agent
+North Melbourne,Darcy Tucker,2025,Non-Free Agent
+North Melbourne,Jaidyn Stephenson,2025,Non-Free Agent
+North Melbourne,Josh Goater,2025,Non-Free Agent
+North Melbourne,Luke Davies-Uniacke,2025,Restricted Free Agent
+North Melbourne,Miller Bergman,2025,Non-Free Agent
+North Melbourne,Paul Curtis,2025,Non-Free Agent
+North Melbourne,Tristan Xerri,2025,Restricted Free Agent
+Port Adelaide,Dante Visentini,2025,Non-Free Agent
+Port Adelaide,Dylan Williams,2025,Non-Free Agent
+Port Adelaide,Jase Burgoyne,2025,Non-Free Agent
+Port Adelaide,Jed McEntee,2025,Non-Free Agent
+Port Adelaide,Josh Sinn,2025,Non-Free Agent
+Port Adelaide,Kane Farrell,2025,Restricted Free Agent
+Port Adelaide,Lachlan Charleson,2025,Unknown
+Port Adelaide,Miles Bergman,2025,Non-Free Agent
+Port Adelaide,Ryan Burton,2025,Non-Free Agent
+Port Adelaide,Sam Powell-Pepper,2025,Restricted Free Agent
+Port Adelaide,Tom Anastasopoulos,2025,Unknown
+Port Adelaide,Tom Clurey,2025,Unrestricted Free Agent
+Port Adelaide,Will Lorenz,2025,Unknown
+Richmond,Jacob Bauer,2025,Non-Free Agent
+Richmond,Josh Gibcus,2025,Non-Free Agent
+Richmond,Judson Clarke,2025,Non-Free Agent
+Richmond,Kane McAuliffe,2025,Unknown
+Richmond,Liam Fawcett,2025,Unknown
+Richmond,Nathan Broad,2025,Unrestricted Free Agent
+Richmond,Noah Balta,2025,Restricted Free Agent
+Richmond,Oliver Hayes-Brown,2025,Unknown
+Richmond,Sam Banks,2025,Non-Free Agent
+Richmond,Tom Brown,2025,Non-Free Agent
+Richmond,Tom Lynch,2025,Non-Free Agent
+Richmond,Tylar Young,2025,Non-Free Agent
+Richmond,Tyler Sonsie,2025,Non-Free Agent
+St Kilda,Angus Hastie,2025,Unknown
+St Kilda,Arie Schoenmaker,2025,Unknown
+St Kilda,Brad Crouch,2025,Non-Free Agent
+St Kilda,Bradley Hill,2025,Non-Free Agent
+St Kilda,Hugo Garcia,2025,Unknown
+St Kilda,Hunter Clark,2025,Restricted Free Agent
+St Kilda,Liam O'Connell,2025,Unknown
+St Kilda,Marcus Windhager,2025,Non-Free Agent
+St Kilda,Mitchito Owens,2025,Non-Free Agent
+St Kilda,Nasiah Wanganeen-Milera,2025,Non-Free Agent
+St Kilda,Zaine Cordy,2025,Non-Free Agent
+Sydney Swans,Angus Sheldrick,2025,Non-Free Agent
+Sydney Swans,Braeden Campbell,2025,Non-Free Agent
+Sydney Swans,Chad Warner,2025,Non-Free Agent
+Sydney Swans,Corey Warner,2025,Non-Free Agent
+Sydney Swans,Dane Rampe,2025,Unrestricted Free Agent
+Sydney Swans,Indhi Kirk,2025,Unknown
+Sydney Swans,Jake Lloyd,2025,Unrestricted Free Agent
+Sydney Swans,Joel Hamling,2025,Unrestricted Free Agent
+Sydney Swans,Luke Parker,2025,Unrestricted Free Agent
+Sydney Swans,Matt Roberts,2025,Non-Free Agent
+Sydney Swans,Patrick Snell,2025,Unknown
+Sydney Swans,Peter Ladhams,2025,Non-Free Agent
+Sydney Swans,Sam Wicks,2025,Non-Free Agent
+West Coast Eagles,Archer Reid,2025,Unknown
+West Coast Eagles,Brady Hough,2025,Non-Free Agent
+West Coast Eagles,Callum Jamieson,2025,Non-Free Agent
+West Coast Eagles,Campbell Chesser,2025,Non-Free Agent
+West Coast Eagles,Clay Hall,2025,Unknown
+West Coast Eagles,Coen Livingstone,2025,Unknown
+West Coast Eagles,Dom Sheed,2025,Unrestricted Free Agent
+West Coast Eagles,Harvey Johnston,2025,Unknown
+West Coast Eagles,Jack Darling,2025,Unrestricted Free Agent
+West Coast Eagles,Jack Petruccelle,2025,Restricted Free Agent
+West Coast Eagles,Jake Waterman,2025,Restricted Free Agent
+West Coast Eagles,Jamie Cripps,2025,Unrestricted Free Agent
+West Coast Eagles,Jayden Hunt,2025,Non-Free Agent
+West Coast Eagles,Jeremy McGovern,2025,Unrestricted Free Agent
+West Coast Eagles,Oscar Allen,2025,Restricted Free Agent
+West Coast Eagles,Rhett Bazzo,2025,Non-Free Agent
+West Coast Eagles,Tim Kelly,2025,Non-Free Agent
+West Coast Eagles,Tom Cole,2025,Unrestricted Free Agent
+Western Bulldogs,Adam Treloar,2025,Non-Free Agent
+Western Bulldogs,Aiden O'Driscoll,2025,Unknown
+Western Bulldogs,Anthony Scott,2025,Non-Free Agent
+Western Bulldogs,Arthur Jones,2025,Non-Free Agent
+Western Bulldogs,Caleb Poulter,2025,Unrestricted Free Agent
+Western Bulldogs,Cody Weightman,2025,Non-Free Agent
+Western Bulldogs,Ed Richards,2025,Restricted Free Agent
+Western Bulldogs,James O'Donnell,2025,Non-Free Agent
+Western Bulldogs,Joel Freijah,2025,Unknown
+Western Bulldogs,Lachlan Smith,2025,Unknown
+Western Bulldogs,Laitham Vandermeer,2025,Non-Free Agent
+Western Bulldogs,Liam Jones,2025,Non-Free Agent
+Western Bulldogs,Marcus Bontempelli,2025,Unrestricted Free Agent
+Western Bulldogs,Nick Coffield,2025,Non-Free Agent
+Western Bulldogs,Oskar Baker,2025,Non-Free Agent
+Western Bulldogs,Sam Darcy,2025,Non-Free Agent
+Western Bulldogs,Tom Liberatore,2025,Unrestricted Free Agent
+Adelaide Crows,Billy Dowling,2026,Non-Free Agent
+Adelaide Crows,Charlie Edwards,2026,Non-Free Agent
+Adelaide Crows,Chayce Jones,2026,Restricted Free Agent
+Adelaide Crows,Daniel Curtin,2026,Non-Free Agent
+Adelaide Crows,Jordan Dawson,2026,Non-Free Agent
+Adelaide Crows,Jordon Butts,2026,Restricted Free Agent
+Adelaide Crows,Luke Pedlar,2026,Non-Free Agent
+Adelaide Crows,Max Michalanney,2026,Non-Free Agent
+Adelaide Crows,Mitchell Hinge,2026,Non-Free Agent
+Adelaide Crows,Oscar Ryan,2026,Non-Free Agent
+Adelaide Crows,Rory Laird,2026,Unrestricted Free Agent
+Brisbane Lions,Brandon Ryan,2026,Non-Free Agent
+Brisbane Lions,Henry Smith,2026,Non-Free Agent
+Brisbane Lions,Jaspa Fletcher,2026,Non-Free Agent
+Brisbane Lions,Lachie Neale,2026,Restricted Free Agent
+Brisbane Lions,Oscar McInerney,2026,Unrestricted Free Agent
+Brisbane Lions,Will Ashcroft,2026,Non-Free Agent
+Brisbane Lions,Zac Bailey,2026,Restricted Free Agent
+Carlton,Ashton Moir,2026,Non-Free Agent
+Carlton,Jaxon Binns,2026,Non-Free Agent
+Carlton,Lachlan Cowan,2026,Non-Free Agent
+Carlton,Lewis Young,2026,Non-Free Agent
+Carlton,Oliver Hollands,2026,Non-Free Agent
+Carlton,Sam Walsh,2026,Restricted Free Agent
+Carlton,Zac Williams,2026,Non-Free Agent
+Collingwood,Darcy Cameron,2026,Non-Free Agent
+Collingwood,Edward Allan,2026,Non-Free Agent
+Collingwood,Harry Demattia,2026,Non-Free Agent
+Collingwood,Jack Crisp,2026,Unrestricted Free Agent
+Collingwood,Jakob Ryan,2026,Non-Free Agent
+Collingwood,John Noble,2026,Restricted Free Agent
+Essendon,Elijah Tsatas,2026,Non-Free Agent
+Essendon,Jade Gresham,2026,Non-Free Agent
+Essendon,Nate Caddy,2026,Non-Free Agent
+Fremantle,Hugh Davies,2026,Non-Free Agent
+Fremantle,Jaeger O'Meara,2026,Non-Free Agent
+Fremantle,Josh Treacy,2026,Non-Free Agent
+Fremantle,Matthew Johnson,2026,Non-Free Agent
+Fremantle,Michael Frederick,2026,Non-Free Agent
+Fremantle,Sam Switkowski,2026,Restricted Free Agent
+Fremantle,Will Brodie,2026,Non-Free Agent
+Geelong Cats,Connor O'Sullivan,2026,Non-Free Agent
+Geelong Cats,Gryan Miers,2026,Restricted Free Agent
+Geelong Cats,Jhye Clark,2026,Non-Free Agent
+Geelong Cats,Mark O'Connor,2026,Unrestricted Free Agent
+Gold Coast SUNS,Ben Long,2026,Non-Free Agent
+Gold Coast SUNS,Caleb Graham,2026,Restricted Free Agent
+Gold Coast SUNS,Ethan Read,2026,Non-Free Agent
+Gold Coast SUNS,Jack Lukosius,2026,Restricted Free Agent
+Gold Coast SUNS,Jake Rogers,2026,Non-Free Agent
+Gold Coast SUNS,Jarrod Witts,2026,Unrestricted Free Agent
+Gold Coast SUNS,Jed Walter,2026,Non-Free Agent
+Gold Coast SUNS,Lachie Weller,2026,Restricted Free Agent
+Gold Coast SUNS,Will Graham,2026,Non-Free Agent
+GWS GIANTS,Aaron Cadman,2026,Non-Free Agent
+GWS GIANTS,Connor Idun,2026,Restricted Free Agent
+GWS GIANTS,Darcy Jones,2026,Non-Free Agent
+GWS GIANTS,Harry Rowston,2026,Non-Free Agent
+GWS GIANTS,Jack Buckley,2026,Restricted Free Agent
+GWS GIANTS,Jake Riccardi,2026,Non-Free Agent
+GWS GIANTS,James Leake,2026,Non-Free Agent
+GWS GIANTS,Jesse Hogan,2026,Non-Free Agent
+GWS GIANTS,Kieren Briggs,2026,Restricted Free Agent
+GWS GIANTS,Max Gruzewski,2026,Non-Free Agent
+GWS GIANTS,Nicholas Madden,2026,Non-Free Agent
+GWS GIANTS,Phoenix Gothard,2026,Non-Free Agent
+GWS GIANTS,Stephen Coniglio,2026,Unrestricted Free Agent
+GWS GIANTS,Toby Greene,2026,Unrestricted Free Agent
+GWS GIANTS,Toby McMullin,2026,Non-Free Agent
+Hawthorn,Bailey Macdonald,2026,Non-Free Agent
+Hawthorn,Cam Mackenzie,2026,Non-Free Agent
+Hawthorn,Dylan Moore,2026,Unrestricted Free Agent
+Hawthorn,Henry Hustwaite,2026,Non-Free Agent
+Hawthorn,Jai Newcombe,2026,Non-Free Agent
+Hawthorn,James Blanck,2026,Non-Free Agent
+Hawthorn,Jarman Impey,2026,Restricted Free Agent
+Hawthorn,Joshua Weddle,2026,Non-Free Agent
+Hawthorn,Karl Amon,2026,Non-Free Agent
+Hawthorn,Mitch Lewis,2026,Unrestricted Free Agent
+Hawthorn,Ned Reeves,2026,Restricted Free Agent
+Hawthorn,Nick Watson,2026,Non-Free Agent
+Hawthorn,William McCabe,2026,Non-Free Agent
+Melbourne,Alex Neal-Bullen,2026,Unrestricted Free Agent
+Melbourne,Bailey Laurie,2026,Non-Free Agent
+Melbourne,Bayley Fritsch,2026,Restricted Free Agent
+Melbourne,Caleb Windsor,2026,Non-Free Agent
+Melbourne,Christian Salem,2026,Unrestricted Free Agent
+Melbourne,Jake Bowey,2026,Non-Free Agent
+Melbourne,Jed Adams,2026,Non-Free Agent
+Melbourne,Kade Chandler,2026,Restricted Free Agent
+Melbourne,Koltyn Tholstrup,2026,Non-Free Agent
+Melbourne,Matthew Jefferson,2026,Non-Free Agent
+Melbourne,Shane McAdam,2026,Non-Free Agent
+Melbourne,Tom Sparrow,2026,Restricted Free Agent
+North Melbourne,Colby McKercher,2026,Non-Free Agent
+North Melbourne,George Wardlaw,2026,Non-Free Agent
+North Melbourne,Luke McDonald,2026,Unrestricted Free Agent
+North Melbourne,Riley Hardeman,2026,Non-Free Agent
+North Melbourne,Taylor Goad,2026,Non-Free Agent
+North Melbourne,Tom Powell,2026,Non-Free Agent
+North Melbourne,Will Dawson,2026,Non-Free Agent
+North Melbourne,Zane Duursma,2026,Non-Free Agent
+Port Adelaide,Aliir Aliir,2026,Non-Free Agent
+Port Adelaide,Darcy Byrne-Jones,2026,Unrestricted Free Agent
+Port Adelaide,Jordon Sweet,2026,Non-Free Agent
+Port Adelaide,Oliver Wines,2026,Unrestricted Free Agent
+Port Adelaide,Ollie Lord,2026,Non-Free Agent
+Port Adelaide,Willie Rioli,2026,Non-Free Agent
+Port Adelaide,Zak Butters,2026,Restricted Free Agent
+Richmond,Jacob Koschitzke,2026,Non-Free Agent
+Richmond,Nick Vlastuin,2026,Unrestricted Free Agent
+St Kilda,Anthony Caminiti,2026,Non-Free Agent
+St Kilda,Darcy Wilson,2026,Non-Free Agent
+St Kilda,Lance Collard,2026,Non-Free Agent
+St Kilda,Max King,2026,Restricted Free Agent
+St Kilda,Paddy Dow,2026,Non-Free Agent
+Sydney Swans,Caiden Cleary,2026,Non-Free Agent
+Sydney Swans,Joel Amartey,2026,Restricted Free Agent
+Sydney Swans,Justin McInerney,2026,Restricted Free Agent
+Sydney Swans,Taylor Adams,2026,Non-Free Agent
+Sydney Swans,Will Green,2026,Non-Free Agent
+West Coast Eagles,Bailey Williams,2026,Restricted Free Agent
+West Coast Eagles,Elijah Hewett,2026,Non-Free Agent
+West Coast Eagles,Harley Reid,2026,Non-Free Agent
+West Coast Eagles,Liam Ryan,2026,Restricted Free Agent
+West Coast Eagles,Matthew Flynn,2026,Non-Free Agent
+West Coast Eagles,Noah Long,2026,Non-Free Agent
+West Coast Eagles,Ryan Maric,2026,Non-Free Agent
+West Coast Eagles,Tom Barrass,2026,Unrestricted Free Agent
+Western Bulldogs,Caleb Daniel,2026,Unrestricted Free Agent
+Western Bulldogs,James Harmes,2026,Non-Free Agent
+Western Bulldogs,Jordan Croft,2026,Non-Free Agent
+Western Bulldogs,Luke Cleary,2026,Non-Free Agent
+Western Bulldogs,Rory Lobb,2026,Non-Free Agent
+Western Bulldogs,Ryan Gardner,2026,Unrestricted Free Agent
+Western Bulldogs,Ryley Sanders,2026,Non-Free Agent
+Adelaide Crows,Ben Keays,2027,Unrestricted Free Agent
+Brisbane Lions,Darcy Wilmot,2027,Non-Free Agent
+Brisbane Lions,Keidean Coleman,2027,Restricted Free Agent
+Brisbane Lions,Tom Doedee,2027,Non-Free Agent
+Carlton,Marc Pittonet,2027,Restricted Free Agent
+Carlton,Matthew Cottrell,2027,Unrestricted Free Agent
+Carlton,Patrick Cripps,2027,Unrestricted Free Agent
+Collingwood,Beau McCreery,2027,Non-Free Agent
+Collingwood,Daniel McStay,2027,Non-Free Agent
+Collingwood,Jordan De Goey,2027,Unrestricted Free Agent
+Collingwood,Lachie Schultz,2027,Unrestricted Free Agent
+Collingwood,Patrick Lipinski,2027,Non-Free Agent
+Essendon,Kyle Langford,2027,Unrestricted Free Agent
+Essendon,Nic Martin,2027,Non-Free Agent
+Essendon,Peter Wright,2027,Non-Free Agent
+Essendon,Xavier Duursma,2027,Non-Free Agent
+Essendon,Zach Merrett,2027,Unrestricted Free Agent
+Fremantle,Brandon Walker,2027,Non-Free Agent
+Fremantle,Caleb Serong,2027,Restricted Free Agent
+Fremantle,Hayden Young,2027,Restricted Free Agent
+Fremantle,Heath Chapman,2027,Non-Free Agent
+Fremantle,Luke Ryan,2027,Unrestricted Free Agent
+Geelong Cats,Tom Stewart,2027,Unrestricted Free Agent
+Gold Coast SUNS,Noah Anderson,2027,Restricted Free Agent
+Gold Coast SUNS,Sam Flanders,2027,Restricted Free Agent
+Gold Coast SUNS,Touk Miller,2027,Unrestricted Free Agent
+GWS GIANTS,Lachie Whitfield,2027,Unrestricted Free Agent
+GWS GIANTS,Tom Green,2027,Restricted Free Agent
+Hawthorn,Jack Ginnivan,2027,Non-Free Agent
+Hawthorn,James Sicily,2027,Unrestricted Free Agent
+Hawthorn,Mabior Chol,2027,Unrestricted Free Agent
+Hawthorn,Massimo D'Ambrosio,2027,Non-Free Agent
+Hawthorn,Will Day,2027,Restricted Free Agent
+Melbourne,Kysaiah Pickett,2027,Restricted Free Agent
+Melbourne,Trent Rivers,2027,Restricted Free Agent
+North Melbourne,Dylan Stephens,2027,Non-Free Agent
+North Melbourne,Griffin Logue,2027,Non-Free Agent
+North Melbourne,Zac Fisher,2027,Non-Free Agent
+Port Adelaide,Dan Houston,2027,Unrestricted Free Agent
+Port Adelaide,Mitch Georgiades,2027,Restricted Free Agent
+Richmond,Daniel Rioli,2027,Unrestricted Free Agent
+Richmond,Jayden Short,2027,Unrestricted Free Agent
+St Kilda,Callum Wilkie,2027,Restricted Free Agent
+St Kilda,Jack Higgins,2027,Non-Free Agent
+St Kilda,Jack Sinclair,2027,Unrestricted Free Agent
+St Kilda,Jack Steele,2027,Unrestricted Free Agent
+St Kilda,Liam Henry,2027,Non-Free Agent
+St Kilda,Rowan Marshall,2027,Unrestricted Free Agent
+Sydney Swans,Brodie Grundy,2027,Unrestricted Free Agent
+Sydney Swans,Hayden McLean,2027,Restricted Free Agent
+Sydney Swans,Tom McCartin,2027,Unrestricted Free Agent
+West Coast Eagles,Reuben Ginbey,2027,Non-Free Agent
+Western Bulldogs,Bailey Dale,2027,Unrestricted Free Agent
+Western Bulldogs,Bailey Williams,2027,Unrestricted Free Agent
+Western Bulldogs,Jackson Macrae,2027,Unrestricted Free Agent
+Brisbane Lions,Josh Dunkley,2028,Non-Free Agent
+Collingwood,Darcy Moore,2028,Unrestricted Free Agent
+Essendon,Darcy Parish,2028,Unrestricted Free Agent
+Essendon,Jordan Ridley,2028,Unrestricted Free Agent
+Essendon,Mason Redman,2028,Unrestricted Free Agent
+Essendon,Sam Durham,2028,Restricted Free Agent
+Gold Coast SUNS,Bailey Humphrey,2028,Non-Free Agent
+Gold Coast SUNS,Joel Jeffrey,2028,Restricted Free Agent
+Melbourne,Angus Brayshaw,2028,Unrestricted Free Agent
+Melbourne,Jake Lever,2028,Unrestricted Free Agent
+Port Adelaide,Esava Ratugolea,2028,Non-Free Agent
+Port Adelaide,Jason Horne-Francis,2028,Non-Free Agent
+Port Adelaide,Willem Drew,2028,Unrestricted Free Agent
+Richmond,Shai Bolton,2028,Unrestricted Free Agent
+Sydney Swans,Errol Gulden,2028,Restricted Free Agent
+Sydney Swans,Isaac Heeney,2028,Unrestricted Free Agent
+Sydney Swans,James Rowbottom,2028,Unrestricted Free Agent
+Sydney Swans,Tom Papley,2028,Unrestricted Free Agent
+Adelaide Crows,Jake Soligo,2029,Restricted Free Agent
+Adelaide Crows,Josh Rachele,2029,Restricted Free Agent
+Brisbane Lions,Eric Hipwood,2029,Unrestricted Free Agent
+Brisbane Lions,Jack Payne,2029,Unrestricted Free Agent
+Carlton,Charlie Curnow,2029,Unrestricted Free Agent
+Collingwood,Isaac Quaynor,2029,Unrestricted Free Agent
+Collingwood,Nick Daicos,2029,Restricted Free Agent
+Essendon,Ben McKay,2029,Non-Free Agent
+Fremantle,Jye Amiss,2029,Restricted Free Agent
+Fremantle,Luke Jackson,2029,Non-Free Agent
+Gold Coast SUNS,Wil Powell,2029,Unrestricted Free Agent
+GWS GIANTS,Harry Himmelberg,2029,Unrestricted Free Agent
+GWS GIANTS,Joshua Kelly,2029,Unrestricted Free Agent
+Melbourne,Christian Petracca,2029,Unrestricted Free Agent
+Melbourne,Jacob Van Rooyen,2029,Restricted Free Agent
+North Melbourne,Jy Simpkin,2029,Unrestricted Free Agent
+North Melbourne,Nick Larkey,2029,Unrestricted Free Agent
+Port Adelaide,Todd Marshall,2029,Unrestricted Free Agent
+Richmond,Jacob Hopper,2029,Non-Free Agent
+Richmond,Tim Taranto,2029,Non-Free Agent
+Sydney Swans,Callum Mills,2029,Unrestricted Free Agent
+Carlton,Harry McKay,2030,Unrestricted Free Agent
+Collingwood,Josh Daicos,2030,Unrestricted Free Agent
+Fremantle,Brennan Cox,2030,Unrestricted Free Agent
+Fremantle,Sean Darcy,2030,Unrestricted Free Agent
+Melbourne,Clayton Oliver,2030,Unrestricted Free Agent
+North Melbourne,Harry Sheezel,2030,Restricted Free Agent
+Sydney Swans,Nick Blakey,2031,Unrestricted Free Agent
+Port Adelaide,Connor Rozee,2032,Unrestricted Free Agent
+Western Bulldogs,Aaron Naughton,2032,Unrestricted Free Agent
