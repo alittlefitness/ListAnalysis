@@ -1,12 +1,12 @@
 playerTeam,playerName,Year,Status
-Adelaide Crows,Brayden Cook,2024,Non-Free Agent
+Adelaide Crows,Brayden Cook,2026,Non-Free Agent
 Adelaide Crows,Brodie Smith,2024,Unrestricted Free Agent
 Adelaide Crows,Chris Burgess,2024,Non-Free Agent
 Adelaide Crows,Elliott Himmelberg,2024,Restricted Free Agent
 Adelaide Crows,Hugh Bond,2024,Non-Free Agent
 Adelaide Crows,James Borlase,2024,Non-Free Agent
 Adelaide Crows,Lachlan Gollant,2024,Non-Free Agent
-Adelaide Crows,Lachlan Sholl,2024,Non-Free Agent
+Adelaide Crows,Lachlan Sholl,2026,Non-Free Agent
 Adelaide Crows,Ned McHenry,2024,Non-Free Agent
 Adelaide Crows,Patrick Parnell,2024,Non-Free Agent
 Adelaide Crows,Rory Sloane,2024,Unrestricted Free Agent
@@ -74,7 +74,7 @@ Essendon,Jake Kelly,2024,Non-Free Agent
 Essendon,Jake Stringer,2024,Non-Free Agent
 Essendon,Jayden Davey,2024,Non-Free Agent
 Essendon,Jye Caldwell,2024,Non-Free Agent
-Essendon,Jye Menzie,2024,Non-Free Agent
+Essendon,Jye Menzie,2025,Non-Free Agent
 Essendon,Kaine Baldwin,2024,Non-Free Agent
 Essendon,Lewis Hayes,2024,Non-Free Agent
 Essendon,Matt Guelfi,2024,Non-Free Agent
@@ -83,7 +83,7 @@ Essendon,Nik Cox,2024,Non-Free Agent
 Essendon,Sam Weideman,2024,Non-Free Agent
 Essendon,Tex Wanganeen,2024,Non-Free Agent
 Essendon,Todd Goldstein,2025,Unrestricted Free Agent
-Essendon,Vigo Visentini,2024,Unknown
+Essendon,Vigo Visentini,2025,Unknown
 Essendon,Will Setterfield,2024,Non-Free Agent
 Essendon,Saad El-Hawli,2024,Non-Free Agent
 Fremantle,Bailey Banfield,2024,Unrestricted Free Agent
@@ -120,20 +120,20 @@ Geelong Cats,Phoenix Foster,2024,Non-Free Agent
 Geelong Cats,Rhys Stanley,2024,Unrestricted Free Agent
 Geelong Cats,Ted Clohesy,2024,Non-Free Agent
 Geelong Cats,Tom Hawkins,2024,Unrestricted Free Agent
-Geelong Cats,Tyson Stengle,2024,Unrestricted Free Agent
+Geelong Cats,Tyson Stengle,2029,Unrestricted Free Agent
 Geelong Cats,Zach Tuohy,2024,Restricted Free Agent
 Gold Coast SUNS,Alex Davies,2024,Non-Free Agent
 Gold Coast SUNS,Alex Sexton,2024,Unrestricted Free Agent
 Gold Coast SUNS,Ben Ainsworth,2024,Restricted Free Agent
 Gold Coast SUNS,Ben King,2026,Non-Free Agent
-Gold Coast SUNS,Bodhi Uwland,2024,Non-Free Agent
+Gold Coast SUNS,Bodhi Uwland,2026,Non-Free Agent
 Gold Coast SUNS,Brandon Ellis,2024,Non-Free Agent
 Gold Coast SUNS,Darcy Macpherson,2024,Restricted Free Agent
 Gold Coast SUNS,Hewago Oea,2024,Non-Free Agent
 Gold Coast SUNS,Jack Mahony,2024,Unrestricted Free Agent
 Gold Coast SUNS,James Tsitas,2024,Non-Free Agent
 Gold Coast SUNS,Levi Casboult,2024,Unrestricted Free Agent
-Gold Coast SUNS,Lloyd Johnston,2024,Non-Free Agent
+Gold Coast SUNS,Lloyd Johnston,2026,Non-Free Agent
 Gold Coast SUNS,Ned Moyle,2028,Non-Free Agent
 Gold Coast SUNS,Nick Holman,2024,Unrestricted Free Agent
 Gold Coast SUNS,Oskar Faulkhead,2024,Non-Free Agent
@@ -167,7 +167,7 @@ Hawthorn,Jack Gunston,2024,Unrestricted Free Agent
 Hawthorn,Jack O'Sullivan,2024,Non-Free Agent
 Hawthorn,Jack Scrimshaw,2027,Non-Free Agent
 Hawthorn,Joshua Bennetts,2024,Non-Free Agent
-Hawthorn,Lloyd Meek,2024,Non-Free Agent
+Hawthorn,Lloyd Meek,2025,Non-Free Agent
 Hawthorn,Luke Breust,2024,Unrestricted Free Agent
 Hawthorn,Sam Frost,2024,Non-Free Agent
 Hawthorn,Jasper Scaife,2025,Non-Free Agent
@@ -194,7 +194,7 @@ North Melbourne,Cameron Zurhaar,2024,Restricted Free Agent
 North Melbourne,Charlie Lazzaro,2024,Non-Free Agent
 North Melbourne,Cooper Harvey,2024,Non-Free Agent
 North Melbourne,Curtis Taylor,2024,Non-Free Agent
-North Melbourne,Eddie Ford,2024,Non-Free Agent
+North Melbourne,Eddie Ford,2025,Non-Free Agent
 North Melbourne,Finnbar Maley,2024,Unknown
 North Melbourne,Hamish Free,2024,Non-Free Agent
 North Melbourne,Hugh Greenwood,2024,Non-Free Agent
@@ -203,7 +203,7 @@ North Melbourne,Kallan Dawson,2025,Non-Free Agent
 North Melbourne,Liam Shiels,2024,Unrestricted Free Agent
 North Melbourne,Robert Hansen,2024,Non-Free Agent
 North Melbourne,Tarryn Thomas,2024,Non-Free Agent
-North Melbourne,Toby Pink,2024,Unrestricted Free Agent
+North Melbourne,Toby Pink,2025,Unrestricted Free Agent
 North Melbourne,Tyler Sellers,2024,Unknown
 North Melbourne,Will Phillips,2024,Non-Free Agent
 North Melbourne,Geordie Payne,2025,Non-Free Agent
@@ -228,7 +228,7 @@ Richmond,Ben Miller,2026,Non-Free Agent
 Richmond,Dion Prestia,2024,Restricted Free Agent
 Richmond,Dustin Martin,2024,Unrestricted Free Agent
 Richmond,Dylan Grimes,2024,Unrestricted Free Agent
-Richmond,Hugo Ralphsmith,2024,Non-Free Agent
+Richmond,Hugo Ralphsmith,2026,Non-Free Agent
 Richmond,Jack Graham,2024,Restricted Free Agent
 Richmond,Jack Ross,2024,Non-Free Agent
 Richmond,James Trezise,2024,Non-Free Agent
